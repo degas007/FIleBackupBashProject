@@ -1,0 +1,3 @@
+2024-05-29 10:50:52 - Error: Source directory does not exist: source_dir
+2024-05-29 10:51:44 - Backup created: backup_dir/backup_20240529_105144
+2024-05-29 11:37:41 - Backup created: backup_dir/backup_20240529_113741
